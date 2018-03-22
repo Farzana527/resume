@@ -1,0 +1,48 @@
+{
+"career":{
+"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"Education":[
+{
+"degree":"S.S.C",
+"school":"keshava reddy high school",
+"data":["2013","93%"]
+},
+{
+"degree":"INTER",
+"school":"Narayana junior college",
+"data":["2013-15","92%"]
+},
+{
+"degree":"B.Tech(CSE)",
+"school":"G.Pullaiah college of engineering and technology",
+"data":["2015-19","79%"]
+}
+],
+"skills":[
+{
+"name":"languages",
+"info":["C","Java","python","c#","c++","php"]
+},
+{
+"name":"operating system",
+"info":["win-10","fedora","redHat","ubuntu"]
+},
+{
+"name":"Data Bases",
+"info":["MySql","Oracle","PDo","mongo"]
+},
+{
+"name":"Web Technologies",
+"info":["HTML","Javascript","CSS"]
+},
+{
+"name":"Frameworks",
+"info":[".Net","Bootstrap","CodeIgniter"]
+},
+{
+"name":"Libraries",
+"info":["Jquery"]
+}
+]
+}
